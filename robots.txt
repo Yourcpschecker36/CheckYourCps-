@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yourcpschecher36.github.io/CheckYourCps-/sitemap.xml
